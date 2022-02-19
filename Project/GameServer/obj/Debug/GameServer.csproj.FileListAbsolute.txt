@@ -1,0 +1,15 @@
+D:\Subjects\ИЗБИРАЕМИ\C#.NET\Project\GameServer\bin\Debug\GameServer.exe.config
+D:\Subjects\ИЗБИРАЕМИ\C#.NET\Project\GameServer\bin\Debug\GameServer.exe
+D:\Subjects\ИЗБИРАЕМИ\C#.NET\Project\GameServer\bin\Debug\GameServer.pdb
+D:\Subjects\ИЗБИРАЕМИ\C#.NET\Project\GameServer\obj\Debug\GameServer.csproj.AssemblyReference.cache
+D:\Subjects\ИЗБИРАЕМИ\C#.NET\Project\GameServer\obj\Debug\MainWindow.g.cs
+D:\Subjects\ИЗБИРАЕМИ\C#.NET\Project\GameServer\obj\Debug\App.g.cs
+D:\Subjects\ИЗБИРАЕМИ\C#.NET\Project\GameServer\obj\Debug\GameServer_MarkupCompile.cache
+D:\Subjects\ИЗБИРАЕМИ\C#.NET\Project\GameServer\obj\Debug\GameServer_MarkupCompile.lref
+D:\Subjects\ИЗБИРАЕМИ\C#.NET\Project\GameServer\obj\Debug\MainWindow.baml
+D:\Subjects\ИЗБИРАЕМИ\C#.NET\Project\GameServer\obj\Debug\GameServer.g.resources
+D:\Subjects\ИЗБИРАЕМИ\C#.NET\Project\GameServer\obj\Debug\GameServer.Properties.Resources.resources
+D:\Subjects\ИЗБИРАЕМИ\C#.NET\Project\GameServer\obj\Debug\GameServer.csproj.GenerateResource.cache
+D:\Subjects\ИЗБИРАЕМИ\C#.NET\Project\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+D:\Subjects\ИЗБИРАЕМИ\C#.NET\Project\GameServer\obj\Debug\GameServer.exe
+D:\Subjects\ИЗБИРАЕМИ\C#.NET\Project\GameServer\obj\Debug\GameServer.pdb
